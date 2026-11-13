@@ -6,7 +6,8 @@ Open data and dashboard for: Mondal, S. (2026). *A win-based measure of player p
 - `dashboard/index.html` – self-contained dashboard (open locally or host on GitHub Pages).
 - `scripts/` – `build_data.py` (workbooks → CSV, prints the paper's MAE and correlation) and `build_dashboard.py`.
 - `docs/DATA_DICTIONARY.md` – every column and unit.
+- `live url` – https://wbbl.cricketwinscore.com/
 
 Rebuild: `python scripts/build_data.py batter.xlsx bowler.xlsx data && python scripts/build_dashboard.py` (requires pandas, openpyxl).
 
-Licences: data CC BY 4.0, code MIT (the paper itself is CC BY-NC-ND). Cite via `CITATION.cff`.
+Licences: data CC BY 4.0.
