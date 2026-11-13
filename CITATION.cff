@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "WBBL Cricket Win Score open data"
+message: "If you use this data, please cite the paper."
+authors:
+  - family-names: Mondal
+    given-names: Sarthak
+type: dataset
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "A win-based measure of player productivity in cricket: evidence from the Women's Big Bash League between 2016/17 and 2025/26"
+  authors:
+    - family-names: Mondal
+      given-names: Sarthak
+  journal: "Managing Sport and Leisure"
+  year: 2026
+  doi: "10.1080/23750472.2026.2747309"

@@ -1,0 +1,22 @@
+paper_table,term,value,t_stat,note
+table1,Constant,0.525,t=3.40,"Team-wins regression, dependent = win percentage; team fixed effects (not published)"
+table1,Batting efficiency,1.528,t=10.99,Adj R2 0.6751
+table1,Bowling efficiency,-1.547,t=-10.21,Adj R2 0.6751
+table2/4,Runs scored,0.0012,,"Marginal value, win-percentage points"
+table2/4,Balls faced,-0.0014,,
+table2/4,Runs conceded,-0.0012,,
+table2/4,Balls bowled,0.0014,,
+table3,Constant,23.882,t=0.26,Runs scored regression; Adj R2 0.7931
+table3,Wickets lost,-2.572,t=-1.89,Runs lost per wicket
+table3,Balls faced,1.319,t=14.00,
+table4,Wickets lost,-0.0031,,= -2.57 x 0.0012
+table4,Wickets taken,0.0031,,
+table5,Top Order batters (2025/26 avg per ball),-2.6e-05,,
+table5,Upper Middle Order batters,-5.7e-05,,
+table5,Lower Middle Order batters,-0.000269,,
+table5,Lower Order batters,-0.000579,,
+table5,All batters,-8.1e-05,,
+table5,Type 1 bowlers (1-12 balls/match),-0.000229,,
+table5,Type 2 bowlers (13-18),-4e-06,,
+table5,Type 3 bowlers (19-24),1.6e-05,,
+table5,All bowlers,-1e-05,,
